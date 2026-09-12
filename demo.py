@@ -1,5 +1,4 @@
 def greet(name: str) -> str:
-    unused = 42
     return f"Hello, {name}!"
 
 
